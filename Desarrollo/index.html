@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Colorfly Studio</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+   <header>
+     <h1>Colorfly Studio</h1>
+     <p>Generador de paletas de colores</p>
+   </header>
+   <main>
+    <section>
+        <h2>Creá tu paleta</h2>
+        <p>Elegí la cantidad de colores y generá una paleta al azar.</p>
+
+        <fieldset>
+            <legend>Cantidad de colores</legend>
+            <label>
+                <input type="radio" name="color-count" value="6" checked>
+                6 colores
+            </label> 
+            <label>
+                <input type="radio" name="color-count" value="8">8 colores
+            </label>
+            <label>
+                <input type="radio" name="color-count" value="9"> 9 colores
+            </label>
+        </fieldset>
+
+        <button id="generate-btn" type="button">
+            Generar paleta
+        </button>
+    </section>
+    <section aria-labelledby="palette-tittle">
+        <h2 id="palette-tittle">Tu paleta</h2>
+
+        <div id="feedback" role="status" aria-live="polite"></div>
+
+        <div id="palette"></div>
+    </section>
+   </main>
+   
+   <footer>
+    <p>Colorfly Studio - Generador de paletas de colores</p>
+   </footer>
+   <script src="script.js"></script>
+</body>
+</html>
