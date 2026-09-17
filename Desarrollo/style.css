@@ -165,6 +165,6 @@ fieldset label:hover {
 
 footer {
     width: 100%;
-    text-align: center;
+    text-align: center !important;
     margin-top: 20px;
 }
