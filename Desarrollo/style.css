@@ -162,3 +162,7 @@ fieldset label:hover {
         font-size: 2rem;
     }
 }
+
+footer {
+    text-align: center;
+}
