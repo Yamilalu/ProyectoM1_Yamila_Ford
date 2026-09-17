@@ -8,6 +8,12 @@ La idea es que puedas elegir cuántos colores querés y, al tocar el botón, se 
 
 Podés elegir entre 6, 8 o 9 colores.
 
+🌐 Demo online
+
+Podés probar el generador de paletas desde este enlace:
+
+https://yamilalu.github.io/ProyectoM1_Yamila_Ford/Desarrollo/index.html
+
 ¿Qué se puede hacer?
 
 - Elegir la cantidad de colores.
