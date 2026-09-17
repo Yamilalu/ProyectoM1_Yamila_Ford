@@ -22,7 +22,7 @@ Aclaración sobre los prompts
 
 Los prompts incluidos en esta documentación corresponden a consultas realizadas durante el desarrollo del proyecto. 
 
-Prompt — Visualización en modo celular desde la computadora
+Prompt 1 — Visualización en modo celular desde la computadora
 
 Reconstrucción del prompt utilizado:
 
@@ -37,7 +37,7 @@ Cómo influyó en el proyecto:
 Esto permitió realizar pruebas de visualización en distintos tamaños de pantalla y comprobar que la aplicación se adaptara correctamente a dispositivos con pantallas más pequeñas.
 
 
-otro prompt
+prompt 2
 Corrección del centrado del footer
 
 Situación:
@@ -65,3 +65,17 @@ La corrección permitió que el texto del footer quedara centrado correctamente 
 Prueba realizada:
 
 Después de guardar los cambios, se comprobó el resultado en la aplicación publicada mediante GitHub Pages y el footer quedó centrado.
+
+Prompt 3 — README del proyecto
+
+Prompt utilizado:
+“Necesito hacer el README de mi proyecto integrador.”
+
+Resultado:
+La IA ayudó a organizar la información necesaria para explicar el proyecto, sus funcionalidades, las tecnologías utilizadas, la estructura de los archivos y el funcionamiento general de la aplicación.
+
+Cómo influyó en el proyecto:
+Utilicé la propuesta como base para organizar el README y después fui adaptando el contenido para que coincidiera con las características que realmente tenía el proyecto y con las pruebas realizadas.
+
+Evidencia:
+README.md del repositorio y captura correspondiente en la documentación de la entrega.
